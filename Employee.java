@@ -5,4 +5,12 @@ private String lastName;
 private String email;
 private String address;
 private int age;
+
+/*
+* Create default constructor
+*/
+public Employee() {
+
+}
+
 }
